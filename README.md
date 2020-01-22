@@ -36,17 +36,17 @@ Deep learning resources that comes from different sources and is the reason why 
 # Online courses
 * Andrej Karpathy:                https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=1
 
-# Advanced Machine Learning
-
-# Convolutional Neural Network (CNN)
-* Andrej Karparthy, Stanford:     https://www.youtube.com/watch?v=LxfUGhug-iQ
-
 # Datasets
 * Google Dataset search:          https://toolbox.google.com/datasetsearch
 * Kaggle Comptetitions:           https://www.kaggle.com/ 
 * Dataset collection Medium:      https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279
 * Tensorflow datasets intro:      https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3
 * Imbalanced datasets:            https://towardsdatascience.com/handling-imbalanced-datasets-in-deep-learning-f48407a0e758
+
+# Advanced Machine Learning
+
+# Convolutional Neural Network (CNN)
+* Andrej Karparthy, Stanford:     https://www.youtube.com/watch?v=LxfUGhug-iQ
 
 # Transfer Learning
 * Intro to Transfer Learning:     https://medium.com/x8-the-ai-community/introduction-to-transfer-learning-5bcbf70b245d
@@ -71,14 +71,13 @@ Deep learning resources that comes from different sources and is the reason why 
 * GAN Jonathan Hui:               https://medium.com/@jonathan_hui/gan-why-it-is-so-hard-to-train-generative-advisory-networks-819a86b3750b
 
 # Mobile Deep Learning
-
-is coming
+* Mobilenet v3 @google            https://towardsdatascience.com/everything-you-need-to-know-about-mobilenetv3-and-its-comparison-with-previous-versions-a5d5e5a6eeaa
 
 # AI and Climate Change
+* Climate Change AI               https://www.climatechange.ai/
 
-is coming
-
-
-
+# Machine learning for Artists
+* Wekinator by Rebecca Fiebrink   https://github.com/fiebrink1/wekinator
+* RunwayML                        https://runwayml.com/
 
 
