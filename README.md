@@ -1,5 +1,5 @@
 # Deep_Learning_Resources
-Deep learning resources that comes from different sources and is the reason why this is a private resource, and one is the Deep learning course at Umeå University, Sweden (by Kalle Prorok) and additional resources from conferences, educational sources, and other relevant networks.
+Deep learning resources that comes from different sources. One is the Deep learning course at Umeå University, Sweden (by Kalle Prorok) and additional resources from conferences, educational sources, and other relevant networks, such as Machine Learning Tokyo
 
 # Python
 * Googles crash course in python: https://developers.google.com/edu/python/ 
@@ -35,6 +35,13 @@ Deep learning resources that comes from different sources and is the reason why 
 
 # Online courses
 * Andrej Karpathy:                https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=1
+* Intro to Deep learning at MIT   http://introtodeeplearning.com/
+* (there are a range of lectures on that same web site)
+* CNN for Visual recognition 
+* at Stanford                     http://cs231n.stanford.edu/
+* Lecture series on Youtube
+* at Berkeley                     https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A
+
 
 # Datasets / datasets competitions
 * Google Dataset search:          https://toolbox.google.com/datasetsearch
