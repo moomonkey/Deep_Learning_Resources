@@ -36,11 +36,11 @@ Deep learning resources that comes from different sources. One is the Deep learn
 # Online courses
 * Andrej Karpathy:                https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC&index=1
 * Intro to Deep learning at MIT:  http://introtodeeplearning.com/
-* (there are a range of lectures on that same web site)
+ (there are a range of lectures on that same web site)
 * CNN for Visual recognition 
-* at Stanford:                    http://cs231n.stanford.edu/
+ at Stanford:                    http://cs231n.stanford.edu/
 * Lecture series on Youtube
-* at Berkeley:                    https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A
+ at Berkeley:                    https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A
 
 
 # Datasets / datasets competitions
