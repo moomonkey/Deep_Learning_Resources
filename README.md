@@ -1,5 +1,5 @@
 # Deep_Learning_Resources
-Deep learning resources that comes from different sources. One is the Deep learning course at Umeå University, Sweden (by Kalle Prorok) and additional resources from conferences, educational sources, and other relevant networks, such as Machine Learning Tokyo and Stockholm AI.
+Deep learning resources that comes from different sources. One is the Deep learning course at Umeå University, Sweden (by Kalle Prorok) and additional resources from conferences, educational sources, and other relevant networks, such as Machine Learning Tokyo, ITP at NYU, and Stockholm AI.
 
 # Python
 * Googles crash course in python: https://developers.google.com/edu/python/ 
